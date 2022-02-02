@@ -1,0 +1,3 @@
+[submodule "sub-repository"]
+	path = sub-repository
+	url = git@github.com:SKLamp0212/sub-repository.git
